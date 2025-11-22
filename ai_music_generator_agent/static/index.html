@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI Music Generator Agent</title>
+    <link rel="stylesheet" href="/static/style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <div class="logo">
+                <i class="fa-solid fa-music"></i>
+                <span>SonicAgent</span>
+            </div>
+            <p class="subtitle">Your Personal AI Music Composer</p>
+        </header>
+
+        <main>
+            <div class="chat-interface">
+                <div class="messages" id="messages">
+                    <div class="message agent">
+                        <div class="avatar"><i class="fa-solid fa-robot"></i></div>
+                        <div class="content">Hello! I'm SonicAgent. Describe the music you want, and I'll compose it for you.</div>
+                    </div>
+                </div>
+                
+                <div class="input-area">
+                    <input type="text" id="promptInput" placeholder="E.g., A lo-fi hip hop beat for studying..." autocomplete="off">
+                    <button id="sendBtn"><i class="fa-solid fa-paper-plane"></i></button>
+                </div>
+            </div>
+        </main>
+
+        <footer>
+            <p>Powered by Gemini & MusicGen</p>
+        </footer>
+    </div>
+    <script src="/static/script.js"></script>
+</body>
+</html>

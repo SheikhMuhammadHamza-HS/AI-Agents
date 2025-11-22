@@ -14,6 +14,9 @@ An intelligent agent designed to help manage your emails. It can assist with dra
 ### 📚 [Personal Study Assistant](./Personal_Study_Assistant)
 An AI-powered study companion that helps students with their learning journey. It can answer questions, explain concepts, provide study materials, and assist with homework and assignments.
 
+### 🎵 [AI Music Generator](./ai_music_generator_agent)
+An innovative AI agent that generates unique music based on text prompts. It can create mood-appropriate compositions, from sad melodies to motivational tracks, allowing users to download their custom-generated music.
+
 ---
 
 ## 🔮 Future Plans
