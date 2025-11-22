@@ -11,6 +11,9 @@ Here is a list of the AI agents currently available in this repository:
 ### 📧 [Email Assistant](./Email_Assistant)
 An intelligent agent designed to help manage your emails. It can assist with drafting, summarizing, and organizing your inbox, making email management seamless and efficient.
 
+### 📚 [Personal Study Assistant](./Personal_Study_Assistant)
+An AI-powered study companion that helps students with their learning journey. It can answer questions, explain concepts, provide study materials, and assist with homework and assignments.
+
 ---
 
 ## 🔮 Future Plans
